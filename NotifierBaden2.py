@@ -10,22 +10,20 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
-# Hugging Face Inference API
-HUGGINGFACE_API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-mnli"
-HUGGINGFACE_API_TOKEN = "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"  # Replace with your Hugging Face API token
-
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # Suppress TensorFlow logging
+# Suppress TensorFlow logging
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 websites = [
-    {"url": "https://vergabeportal-bw.de/Satellite/common/project/search.do?method=searchExtended", "keywords": ["catering","verpflegung","lebensmittel"]},
+    {"url": "https://vergabeportal-bw.de/Satellite/common/project/search.do?method=searchExtended", 
+     "keywords": ["catering", "verpflegung", "lebensmittel", "kantin", "speise", "hotel", "essen"]},
 ]
 
 # Email configuration
-EMAIL_ADDRESS = "aaaelbedaway@gmail.com"
-EMAIL_PASSWORD = "uhpbpxywxtkmffnp"
+EMAIL_ADDRESS = os.getenv("EMAIL_ADDRESS")
+EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
 
-# File to store previously found matches
-MATCHES_FILE = "matches.json"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+MATCHES_FILE = os.path.join(SCRIPT_DIR, "matches.json")
 TEXT_PARTS_FILE = "extracted_text_parts.json"
 
 class Match:
@@ -114,21 +112,9 @@ def extract_titles_and_links_with_selenium(url):
 
     return extracted_data
 
-def check_keywords_with_huggingface(text, keywords):
-    headers = {"Authorization": f"Bearer {HUGGINGFACE_API_TOKEN}"}
-    payload = {
-        "inputs": text,
-        "parameters": {"candidate_labels": keywords}
-    }
-    try:
-        response = requests.post(HUGGINGFACE_API_URL, headers=headers, json=payload)
-        response.raise_for_status()
-        results = response.json()
-        matched_keywords = [label for label, score in zip(results['labels'], results['scores']) if score > 0.5]
-        return set(keywords).issubset(matched_keywords)
-    except Exception as e:
-        print(f"Error with Hugging Face API: {e}")
-        return False
+def check_keywords(text, keywords):
+    text_lower = text.lower()
+    return any(keyword.lower() in text_lower for keyword in keywords)
 
 def send_email(new_matches):
     subject = "Neue Ausschreibungen verfügbar!!"
@@ -141,14 +127,13 @@ def send_email(new_matches):
 
     try:
         yag = yagmail.SMTP(EMAIL_ADDRESS, EMAIL_PASSWORD)
-        yag.send(EMAIL_ADDRESS, subject, body)
+        yag.send("Henrik.Hemmer@flc-group.de", subject, body)
         print("Email sent!")
     except Exception as e:
         print(f"Failed to send email: {e}")
 
 def main():
-    clear_matches_file(
-    )
+    clear_matches_file()
     previous_matches = load_previous_matches()
     print("Previous Matches:", previous_matches)
     new_matches = []
@@ -168,7 +153,7 @@ def main():
         for data in extracted_data:
             title = data.get("title", "")
 
-            if check_keywords_with_huggingface(title, keywords) and data not in previous_matches[url]:
+            if check_keywords(title, keywords) and data not in previous_matches[url]:
                 new_matches.append(data)
                 previous_matches[url].append(data)
 
