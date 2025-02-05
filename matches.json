@@ -1,3 +1,8 @@
 {
-    "https://vergabeportal-bw.de/Satellite/common/project/search.do?method=searchExtended": []
+    "https://vergabeportal-bw.de/Satellite/common/project/search.do?method=searchExtended": [
+        {
+            "title": "Interessenbekundungsverfahren zur Abgabe von Angeboten zur Windenergie-Nutzung in 72218 Wildberg - Gemarkung Sulz - KEIN Vergabeverfahren nach Vergaberecht",
+            "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=8422"
+        }
+    ]
 }
