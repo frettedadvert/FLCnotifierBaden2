@@ -1,5 +1,9 @@
 [
     {
+        "title": "Einf\u00fchrung SBD T1",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9140"
+    },
+    {
         "title": "Zwei 110/10,5-kV-Leistungstransformatoren mit je 63 MVA (ONAN /ONAF)",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9044"
     },
@@ -10,14 +14,6 @@
     {
         "title": "WV L\u00d6 - EZ LW -",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=8311"
-    },
-    {
-        "title": "Redesign Backup Infrastruktur",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=7687"
-    },
-    {
-        "title": "Einf\u00fchrung SBD T1",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9140"
     },
     {
         "title": "Neubau Mensa Reinhold-Maier-Schule in Weiler",
@@ -36,6 +32,10 @@
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=6254"
     },
     {
+        "title": "Entwicklung, Implementierung und Wartung eines Rollen- und Berechtigungskonzeptes f\u00fcr die SAP S/4HANA-Transformation",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9127"
+    },
+    {
         "title": "Externe Archivierung von Patientenunterlagen am UKHD nebst Tochtergesellschaften & Kooperationen",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9037"
     },
@@ -52,20 +52,20 @@
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9092"
     },
     {
-        "title": "Entwicklung, Implementierung und Wartung eines Rollen- und Berechtigungskonzeptes f\u00fcr die SAP S/4HANA-Transformation",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9127"
-    },
-    {
-        "title": "PAW_01",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=8962"
-    },
-    {
         "title": "Interimsvergabe Grund- / Glasreinigung (13 Kinderh\u00e4user)",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=8783"
     },
     {
         "title": "5 Jahrespflege Steinbruch H\u00e4gnach",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=7843"
+    },
+    {
+        "title": "Generalsanierung Fu\u00dfg\u00e4ngersteg P5-T1",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9172"
+    },
+    {
+        "title": "Rahmenvereinbarung - Unterst\u00fctzungsleistungen f\u00fcr die Interne Revision und das (Compliance-) Risikomanagement",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9147"
     },
     {
         "title": "TS-04699 Entflechtung Simulationskammer",
@@ -76,7 +76,7 @@
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9014"
     },
     {
-        "title": "Rahmenvereinbarung - Unterst\u00fctzungsleistungen f\u00fcr die Interne Revision und das (Compliance-) Risikomanagement",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9147"
+        "title": "Skyoffice / VE3 / Fachplanung ELT & BMA",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9079"
     }
 ]
