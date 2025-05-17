@@ -12,10 +12,6 @@
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=8968"
     },
     {
-        "title": "WV L\u00d6 - EZ LW -",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=8311"
-    },
-    {
         "title": "Neubau Mensa Reinhold-Maier-Schule in Weiler",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9040"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Skyoffice / VE3 / Fachplanung ELT & BMA",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9079"
+    },
+    {
+        "title": "Erweiterte Objektplanung - Sanierung und Modernisierung Skyoffice",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9081"
     }
 ]
