@@ -60,6 +60,10 @@
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9092"
     },
     {
+        "title": "PAW_01EU",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9206"
+    },
+    {
         "title": "Interimsvergabe Grund- / Glasreinigung (13 Kinderh\u00e4user)",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=8783"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Rahmenvereinbarung - Unterst\u00fctzungsleistungen f\u00fcr die Interne Revision und das (Compliance-) Risikomanagement",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9147"
-    },
-    {
-        "title": "TS-04699 Entflechtung Simulationskammer",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=5858"
     }
 ]
