@@ -8,10 +8,6 @@
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9044"
     },
     {
-        "title": "STRzeroT_T4_Freianlagen LPH 1-8",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=8968"
-    },
-    {
         "title": "Neubau Mensa Reinhold-Maier-Schule in Weiler",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9040"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Rahmenvereinbarung - Unterst\u00fctzungsleistungen f\u00fcr die Interne Revision und das (Compliance-) Risikomanagement",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9147"
+    },
+    {
+        "title": "TS-04699 Entflechtung Simulationskammer",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=5858"
     }
 ]
