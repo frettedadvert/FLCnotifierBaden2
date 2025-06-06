@@ -1,35 +1,31 @@
 [
     {
-        "title": "Einf\u00fchrung SBD T1",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9140"
-    },
-    {
         "title": "Erschlie\u00dfung BG Dietenbach: Mittelachse Tief- und Rohrleitungsbau f\u00fcr Fernw\u00e4rme-, Trinkwasser und Grundwasserleitungen sowie Erdarbeiten (Arbeiten f\u00fcr Dritte)",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9300"
+    },
+    {
+        "title": "Einf\u00fchrung SBD T1",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9140"
     },
     {
         "title": "Stundenlohnabfrage 2025/2026",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=8936"
     },
     {
-        "title": "Fachberatung IT Service Management f\u00fcr Applikationen, Betriebssysteme und Datenbanksysteme",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=8977"
+        "title": "Planungsleistungen",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9103"
     },
     {
-        "title": "Entwicklung, Implementierung und Wartung eines Rollen- und Berechtigungskonzeptes f\u00fcr die SAP S/4HANA-Transformation",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9127"
-    },
-    {
-        "title": "PAW_01EU",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9206"
+        "title": "Schwabenbund: Multimodale Mobilit\u00e4tsplattform f\u00fcr Mittelschwaben und Allg\u00e4u",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9263"
     },
     {
         "title": "Fl\u00fcchtlingswohnen \"Beim Herbstenhof\"",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9244"
     },
     {
-        "title": "Schwabenbund: Multimodale Mobilit\u00e4tsplattform f\u00fcr Mittelschwaben und Allg\u00e4u",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9263"
+        "title": "PAW_01EU",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9206"
     },
     {
         "title": "Planungsleistungen Hochwasserschutz (HWS): Los 3 - Verkehrsanlagenplanung, besondere Leistungen.",
@@ -40,12 +36,20 @@
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9132"
     },
     {
-        "title": "Planungsleistungen",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9103"
+        "title": "Fachberatung IT Service Management f\u00fcr Applikationen, Betriebssysteme und Datenbanksysteme",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=8977"
+    },
+    {
+        "title": "Entwicklung, Implementierung und Wartung eines Rollen- und Berechtigungskonzeptes f\u00fcr die SAP S/4HANA-Transformation",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9127"
     },
     {
         "title": "Externe Archivierung von Patientenunterlagen am UKHD nebst Tochtergesellschaften & Kooperationen",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9037"
+    },
+    {
+        "title": "Teilnahmewettbewerb: Erstellung einer Machbarkeitsstudie und zur Erbringung von Leistungen zur Vor-, Entwurfs- und Genehmigungsplanung im Zuge der Optimierung der Entgasung der Deponie HAMBERG",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9288"
     },
     {
         "title": "Interimsvergabe Grund- / Glasreinigung (13 Kinderh\u00e4user)",
@@ -56,20 +60,16 @@
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=7843"
     },
     {
-        "title": "Teilnahmewettbewerb: Erstellung einer Machbarkeitsstudie und zur Erbringung von Leistungen zur Vor-, Entwurfs- und Genehmigungsplanung im Zuge der Optimierung der Entgasung der Deponie HAMBERG",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9288"
-    },
-    {
-        "title": "Generalsanierung Fu\u00dfg\u00e4ngersteg P5-T1",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9172"
+        "title": "Markterkundung Beratungsleistungen Beschaffung Kassensystem",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9240"
     },
     {
         "title": "Neubau NSK/GHW - Erd- und Kanalbauarbeiten",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9209"
     },
     {
-        "title": "Markterkundung Beratungsleistungen Beschaffung Kassensystem",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9240"
+        "title": "Generalsanierung Fu\u00dfg\u00e4ngersteg P5-T1",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9172"
     },
     {
         "title": "Demontage Elektrotechnik | Walter-Erbe-Schule, 1. BA, Austockung + Sanierung",
