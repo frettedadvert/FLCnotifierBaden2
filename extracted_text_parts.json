@@ -36,16 +36,12 @@
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9504"
     },
     {
-        "title": "Lieferung Schlie\u00dfzylinder ASSA ABLOY",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9616"
-    },
-    {
         "title": "5 Jahrespflege Steinbruch H\u00e4gnach",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=7843"
     },
     {
-        "title": "Ambulanten Abrechnung",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9760"
+        "title": "Lieferung Schlie\u00dfzylinder ASSA ABLOY",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9616"
     },
     {
         "title": "Lieferung und Implementierung eines zentralen Prozessleitsystems f\u00fcr die Deponien der AVL und HDG",
@@ -58,10 +54,6 @@
     {
         "title": "Neukonzeption ZOB N\u00fcrtingen, Planungsleistungen, Los 2 - Technische Ausr\u00fcstung (Starkstromanlagen, Fernmelde-/Informationstechnische Anlagen, F\u00f6rderanlagen)",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9608"
-    },
-    {
-        "title": "Labor- und Medizintechnikplanung (Anlagengruppe 7 nach \u00a7\u00a7 53 ff. HOAI 2021) Leistungsphase 8 f\u00fcr das Bauvorhaben Neubau Herzzentrum und Informatics for Life am Universit\u00e4tsklinikums Heidelberg",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9512"
     },
     {
         "title": "Externe Archivierung von Patientenunterlagen am UKHD nebst Tochtergesellschaften & Kooperationen",
@@ -78,5 +70,13 @@
     {
         "title": "Bereitstellung, Implementierung und Betrieb einer Personaleinsatzplanungssoftware (PEP)",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9602"
+    },
+    {
+        "title": "Rahmenvereinbarung Beratungsdienstleistungen f\u00fcr die Einf\u00fchrung von SAP-Anwendungen",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9559"
+    },
+    {
+        "title": "Annahme und Verwertung von Gr\u00fcngut aus Privathaushalten im Landkreis Ludwigsburg",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9745"
     }
 ]
