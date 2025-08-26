@@ -20,10 +20,6 @@
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9801"
     },
     {
-        "title": "Jahresbau / Rahmenvertrag f\u00fcr Estrich-Fliesen-Natursteinarbeiten",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9504"
-    },
-    {
         "title": "Schlosser/Brandschutzelemente (CCS Geb\u00e4ude)",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9720"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Einf\u00fchrung SAP S/4HANA Utilities - Nachfolgesystem SAP IS-U (Marktrolle: Lieferant)",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9227"
+    },
+    {
+        "title": "Neubau Smart Battery Park (SBP) - Fassadenplanung",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9800"
     }
 ]
