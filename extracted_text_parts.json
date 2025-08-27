@@ -20,6 +20,10 @@
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9801"
     },
     {
+        "title": "AFZS Hardware",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9840"
+    },
+    {
         "title": "Schlosser/Brandschutzelemente (CCS Geb\u00e4ude)",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9720"
     },
@@ -30,10 +34,6 @@
     {
         "title": "Annahme und Verwertung von Gr\u00fcngut aus Privathaushalten im Landkreis Ludwigsburg",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9745"
-    },
-    {
-        "title": "Bereitstellung, Implementierung und Betrieb einer Personaleinsatzplanungssoftware (PEP)",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9602"
     },
     {
         "title": "Technisches Inbetriebnahmemanagement in Anlehnung an VDI 6039",
@@ -56,27 +56,27 @@
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9812"
     },
     {
-        "title": "Lieferung Schlie\u00dfzylinder ASSA ABLOY",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9616"
+        "title": "Bereitstellung, Implementierung und Betrieb einer Personaleinsatzplanungssoftware (PEP)",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9602"
     },
     {
-        "title": "5 Jahrespflege Steinbruch H\u00e4gnach",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=7843"
+        "title": "Tragwerksplanung: Ersbergschule - Sanierung (insbesondere Brandschutz, Barrierefreiheit und energ.) und Ausbau f\u00fcr Ganztag",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9825"
     },
     {
-        "title": "Beschaffung von D\u00fcngemittel 2026",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9857"
+        "title": "Freianlagenplanung: Ersbergschule - Sanierung (insbesondere Brandschutz, Barrierefreiheit und energ.) und Ausbau f\u00fcr Ganztag",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9824"
     },
     {
-        "title": "Neubau UW Neu-Isenburg mit 110-kV-GIS-Anlage und Anbindung von 3 Transformatoren",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9654"
+        "title": "Objektplanungsleistungen: Ersbergschule - Sanierung (insbesondere Brandschutz, Barrierefreiheit und energ.) und Ausbau f\u00fcr Ganztag",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9822"
     },
     {
-        "title": "Einf\u00fchrung SAP S/4HANA Utilities - Nachfolgesystem SAP IS-U (Marktrolle: Lieferant)",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9227"
+        "title": "TGA-Planung, AG 1-3, 7 und 8: Ersbergschule - Sanierung (insbesondere Brandschutz, Barrierefreiheit und energ.) und Ausbau f\u00fcr Ganztag",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9832"
     },
     {
-        "title": "Neubau Smart Battery Park (SBP) - Fassadenplanung",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9800"
+        "title": "TGA-Planung, AG 4+5: Ersbergschule - Sanierung (insbesondere Brandschutz, Barrierefreiheit und energ.) und Ausbau f\u00fcr Ganztag",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9833"
     }
 ]
