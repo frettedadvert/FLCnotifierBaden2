@@ -20,10 +20,6 @@
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9675"
     },
     {
-        "title": "SHKL - Wartungs- und Instandhaltungskontrakt HKW-Mannheim",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9537"
-    },
-    {
         "title": "Schlosser/Brandschutzelemente (CCS Geb\u00e4ude)",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9720"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Bereitstellung, Implementierung und Betrieb einer Personaleinsatzplanungssoftware (PEP)",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9602"
+    },
+    {
+        "title": "Technisches Inbetriebnahmemanagement in Anlehnung an VDI 6039",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9682"
     }
 ]
