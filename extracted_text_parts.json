@@ -8,10 +8,6 @@
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9964"
     },
     {
-        "title": "AFZS Hardware",
-        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9840"
-    },
-    {
         "title": "Briefbef\u00f6rderung aus Zentraldruck",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9633"
     },
@@ -78,5 +74,9 @@
     {
         "title": "PV-Anlage Grundschule Affst\u00e4tt",
         "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9636"
+    },
+    {
+        "title": "Neubau eines Geb\u00e4udes f\u00fcr Fortis: Au\u00dfenanlagen",
+        "link": "https://vergabeportal-bw.de/Satellite/public/company/projectForwarding.do?pid=9432"
     }
 ]
