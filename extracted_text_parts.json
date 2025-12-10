@@ -36,10 +36,6 @@
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     },
     {
-        "title": "Rahmenvertrag Rohbau",
-        "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
-    },
-    {
         "title": "K\u00fcchenplanung Neubau Kinderhaus WHO II West",
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     },
@@ -77,6 +73,10 @@
     },
     {
         "title": "Digitalisierung EKGs UMM",
+        "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
+    },
+    {
+        "title": "VMware Hypervisor",
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     }
 ]
