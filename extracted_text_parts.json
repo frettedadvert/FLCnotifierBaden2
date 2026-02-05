@@ -16,10 +16,6 @@
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     },
     {
-        "title": "Einf\u00fchrung Privileged Access Management",
-        "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
-    },
-    {
         "title": "Rahmenvertrag Digitalisierungsberatung",
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     },
@@ -77,6 +73,10 @@
     },
     {
         "title": "SHKL - Wartungs- und Instandhaltungskontrakt HKW-Mannheim",
+        "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
+    },
+    {
+        "title": "Redesign Backup Infrastruktur",
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     }
 ]
