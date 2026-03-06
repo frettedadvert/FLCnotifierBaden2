@@ -4,6 +4,10 @@
         "link": "https://vergabeportal-bw.deatellite/public/company/projectFor"
     },
     {
+        "title": "Fachplanung Technische Anlagen W\u00e4rmepumpengeb\u00e4ude Betriebsgel\u00e4nde Hauffstra\u00dfe und \u00dcbergabebauwerk Kl\u00e4rwerk West",
+        "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
+    },
+    {
         "title": "Reinigung Dampferzeuger der TREA Leuna Linie 1+2",
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     },
@@ -24,7 +28,11 @@
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     },
     {
-        "title": "Fachplanung Technische Anlagen W\u00e4rmepumpengeb\u00e4ude Betriebsgel\u00e4nde Hauffstra\u00dfe und \u00dcbergabebauwerk Kl\u00e4rwerk West",
+        "title": "Zwei 110/10,5-kV-Leistungstransformatoren mit je 50/63 MVA (ONAN /ONAF)",
+        "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
+    },
+    {
+        "title": "RV Smart City Datenplattform (IoT/UDP)",
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     },
     {
@@ -40,23 +48,11 @@
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     },
     {
-        "title": "RV Smart City Datenplattform (IoT/UDP)",
+        "title": "ECMO Ger\u00e4te (2 St)",
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     },
     {
         "title": "Erarbeitung einer Machbarkeitsstudie sowie Projektierung und Umsetzung einer PV-Freifl\u00e4chenanlage auf der Deponie AM FROSCHGRABEN",
-        "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
-    },
-    {
-        "title": "Rahmenvertrag \"ISMS Unterst\u00fctzung\" und \"Auditpr\u00fcfung\"",
-        "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
-    },
-    {
-        "title": "Technische Projektbegleitung - Tiefengeothermie f\u00fcr Erdw\u00e4rme Breisgau",
-        "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
-    },
-    {
-        "title": "Erneuerung ORACLE Infrastruktur",
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     },
     {
@@ -72,11 +68,15 @@
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     },
     {
-        "title": "Neubau Stichstra\u00dfe ab Wendehammer Herrenb\u00fchlstra\u00dfe",
+        "title": "Rahmenvertrag \"ISMS Unterst\u00fctzung\" und \"Auditpr\u00fcfung\"",
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     },
     {
-        "title": "Kanalsanierung TG1 BA4",
+        "title": "Erneuerung ORACLE Infrastruktur",
+        "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
+    },
+    {
+        "title": "Technische Projektbegleitung - Tiefengeothermie f\u00fcr Erdw\u00e4rme Breisgau",
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     }
 ]
