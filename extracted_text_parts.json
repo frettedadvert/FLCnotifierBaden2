@@ -1,9 +1,5 @@
 [
     {
-        "title": "Messebau MVV Energie Gruppe",
-        "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
-    },
-    {
         "title": "Planungsleistung Biogaseinspeiseanlage und R\u00fcckspeiseanlage",
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     },
@@ -77,6 +73,10 @@
     },
     {
         "title": "Planungsleistungen MSR/Geb\u00e4udeautomation",
+        "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
+    },
+    {
+        "title": "Planungsleistungen Flussw\u00e4rmepumpe (WPA2)",
         "link": "https://vergabeportal-bw.deatellite/public/company/projectForw"
     }
 ]
